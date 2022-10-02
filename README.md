@@ -1,5 +1,5 @@
 # WEnum
-Windows Host Enumeration using Golang
+Windows Enumeration using Golang
 
 Uses file.txt to read and execute commands line by line  
 Edit file.txt as needed
