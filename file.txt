@@ -1,0 +1,8 @@
+whoami
+hostname
+ipconfig /all
+tasklist /v
+systeminfo
+net start
+net use
+netsh wlan show profile
