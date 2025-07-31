@@ -1,4 +1,4 @@
-# 🪟 WEnum – Windows Enumeration with Golang
+# 🖥️ WEnum – Windows Enumeration with Golang
 
 **WEnum** is a lightweight Windows enumeration tool written in Go, designed for offline or post-exploitation use during red team, OSCP, or CTF engagements.
 
